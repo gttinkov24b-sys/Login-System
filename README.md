@@ -9,6 +9,4 @@ A simple console application for C# that I used to test Visual Studio 2026 and p
 
 Notes: This is a beginner-level project
 
-<sub> Thanks for Reading! </sub>
-
-<sub> Dankeschön! </sub>
+<small> Thanks for Reading! </small>
