@@ -9,4 +9,4 @@ A simple console application for C# that I used to test Visual Studio 2026 and p
 
 Notes: This is a beginner-level project
 
-<small> Thanks for Reading! </small>
+<sub> Thanks for Reading! </sub>
