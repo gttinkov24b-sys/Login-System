@@ -7,4 +7,7 @@ A simple console application for C# that I used to test Visual Studio 2026 and p
 - **System.Threading.Thread.Sleep()**: to add delays for better user experience
 - Reinforced basic C# skills: loops, conditionals, and string handling
 
-## Project is Very Begginer-Level
+Notes: This is a beginner-level project
+
+-# Thanks for Reading!
+-# Dankeschön!
