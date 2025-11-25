@@ -1,4 +1,10 @@
-# Login-System
-Nothing So shavy, just a simple C# code I did to test-out the new version of VS(Visual Studio) for 2026
+# Login-System (C# Console application)
 
-Im a begginer btw👍
+A simple console application for C# that I used to test Visual Studio 2026 and practice some programming.
+
+### What was learned/practiced:
+- **Console.Clear()**: to refresh the console
+- **System.Threading.Thread.Sleep()**: to add delays for better user experience
+- Reinforced basic C# skills: loops, conditionals, and string handling
+
+## Project is Very Begginer-Level
