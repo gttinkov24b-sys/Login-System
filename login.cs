@@ -20,7 +20,7 @@ namespace login
                 Console.Clear();
                 int duljina = name.Length;
                 int duljina2 = pass.Length;
-                if (duljina < 3 || duljina2 < 5)
+                if (duljina < 3 && duljina2 < 5)
                 {
                     Console.WriteLine("Password or name Too short Try Again!");
                     System.Threading.Thread.Sleep(2500);
@@ -148,3 +148,4 @@ namespace login
         }
     }
 }
+
